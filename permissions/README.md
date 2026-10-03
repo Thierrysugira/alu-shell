@@ -1,0 +1,3 @@
+# Permissions
+
+for intranet assignments
