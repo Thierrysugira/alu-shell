@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Sends SIGTERM to the 7-highlander process
+pkill -f 7-highlander
+#!/usr/bin/env bash
+# This script stops the 4-to_infinity_and_beyond process
+pkill -f 4-to_infinity_and_beyond
